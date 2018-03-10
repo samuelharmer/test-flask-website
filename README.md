@@ -1,7 +1,7 @@
 test-flask-website
 ==================
 
-Testing for a Flask website
+A simple Flask website based on the [tutorial][1] for testing Travis CI with.
 
 Developing
 ----------
@@ -17,3 +17,5 @@ On Windows:
 (venv) > flask initdb
 (venv) > flask run
 ```
+
+[1]: http://flask.pocoo.org/docs/0.12/tutorial/
