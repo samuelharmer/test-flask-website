@@ -102,3 +102,6 @@ ENV/
 
 # SQLite database files
 *.db
+
+# pytest
+.pytest_cache/
