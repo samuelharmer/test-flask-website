@@ -1,7 +1,10 @@
 test-flask-website
 ==================
 
-A simple Flask website based on the [tutorial][flask/tutorial] for testing Travis CI with.
+[![Build Status](https://travis-ci.org/samuelharmer/test-flask-website.svg?branch=master)](https://travis-ci.org/samuelharmer/test-flask-website)
+
+A simple Flask website based on the [tutorial][flask/tutorial] for testing
+Travis CI with.
 
 
 Developing on Windows
